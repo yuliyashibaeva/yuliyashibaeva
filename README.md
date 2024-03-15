@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Yulia
+# Hi there 👋 My name is Julia
 
 I am a Software QA Engineer based in Helsinki, Finland 🇫🇮 
 My main expertise is manual testing of web applications.
