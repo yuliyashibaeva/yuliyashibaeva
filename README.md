@@ -9,7 +9,11 @@ You can see my results here on my GitHub. Welcome!✨
 
 #### [Python + Pytest + Selenium](https://github.com/yuliyashibaeva/python-selenium-online-store)
 
-I developed this small testing project to hone my skills with the Selenium framework.
+I developed this small testing project to hone my skills with Selenium framework.
+
+#### [Robot Framework + SeleniumLibrary](https://github.com/yuliyashibaeva/robot-framework-web-testing)
+
+I developed a few test scenarios using Robot Framework to learn by doing.
 
 ## 📫 Contact with me
 
