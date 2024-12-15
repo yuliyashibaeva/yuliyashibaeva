@@ -1,9 +1,9 @@
 # Hi there 👋 My name is Julia
 
 I am a Software QA Engineer based in Helsinki, Finland 🇫🇮 
-My main expertise is manual testing of web applications.
-Now I'm learning automation testing with Python to ensure the best quality.
-You can see my results here on my GitHub. Welcome!✨
+My main expertise is ensuring quality of web applications.
+Now I'm learning automation testing with Python to develop my skills.
+Welcome!✨
 
 ## 👩‍💻 My projects
 
@@ -14,6 +14,10 @@ I developed this small testing project to hone my skills with Selenium framework
 #### [Robot Framework + SeleniumLibrary](https://github.com/yuliyashibaeva/robot-framework-web-testing)
 
 I developed a few test scenarios using Robot Framework to learn by doing.
+
+#### [Python + Playwright + Allure Report](https://github.com/yuliyashibaeva/playwright-web-testing-project)
+
+I developed a few test scenarios to learn the Playwright framework and to try Allure Report.
 
 ## 📫 Contact with me
 
